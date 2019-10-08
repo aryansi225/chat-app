@@ -1,0 +1,22 @@
+{
+  "name": "05_01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.2",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {
+    "jasmine": "^2.8.0",
+    "request": "^2.83.0"
+  }
+}
