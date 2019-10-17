@@ -9,6 +9,15 @@ This a chat application built in NodeJS - Express Framework. In this application
 # Dependencies
 NodeJS, Express, Mongoose, HTML, CSS, Bootstrap
 
+# My Original Contribution & Learnings
+
+Contribution =>
+Implemented a group chat app that stores data in mongodb in cloud by taking reference from various online articles and educational video.
+
+Major Learnings => 
+Learnt how to use express framework of Node to connect to DB and accept API calls from frontend.
+Learnt how to unit test the functionality.
+
 MIT License
 
 Copyright (c)
